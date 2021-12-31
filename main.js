@@ -34,7 +34,7 @@ document.addEventListener("click", function()
 {
     window.location="./index.html";
 });
-function playMusic(){
+function {
       var myAudio = document.getElementById('playAudio');
       if (myAudio.duration > 0 && !myAudio.paused) {
           //Its playing...do your job
